@@ -1,0 +1,12 @@
+Alice,./home,1000
+Alice,./home,2000
+Alice,./home,10000
+Alice,./home,9000
+Alice,./cart,12000
+Alice,./prod?id=100,15000
+Alice,./home,9000
+Alice,./home,8000
+Alice,./prod?id=200,70000
+Alice,./home,8000
+Alice,./prod?id=300,72000
+Alice,./home,8000

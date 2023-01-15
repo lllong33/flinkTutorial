@@ -1,0 +1,2 @@
+Mary,./home,1000L
+Bob,./cart,2000L
